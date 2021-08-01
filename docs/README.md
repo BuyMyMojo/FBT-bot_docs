@@ -161,3 +161,25 @@ Get some info about a VRChat world
 Sends a random (SFW) waifu image, can specify a type
 
 > `waifu {type}
+
+## Info:
+
+### FBT Heaven links:
+Azuki Fumiko Twitch: https://www.twitch.tv/azuki_fumiko/
+
+Instagram: https://www.instagram.com/officialfbtheaven/
+
+Twitter: https://twitter.com/FBTHeavenVRC/
+
+YouTube: https://www.youtube.com/channel/UCX9Poe22zs32S6uLKTflZRg/
+
+### Other clubs using FBT bot:
+coming soon!
+
+## $upport:
+
+### FBT:
+Patreon: https://www.patreon.com/azukifumiko
+
+### Devs:
+Maybe one day, if Azuki let's us out of the basement!
