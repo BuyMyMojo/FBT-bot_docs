@@ -17,7 +17,7 @@ Will basically 'sing' Corpse Husband in chat
 
 > `astro
 
-> gif
+![](Astro.gif)
 
 #### Avatar
 Displays the current user or mentioned user's discord avatar
@@ -30,14 +30,14 @@ Blurs out whatever image is given
 
 > `censor [URL to image]
 
-> example image here
+![](censor.png)
 
 #### Cringe
 Yep that's going in the cringe compilation 
 
 > `cringe {Optional @user}
 
-> gif
+![](cringe.gif)
 
 #### Discord_add or da
 Add a users Discord ID to the security list
@@ -61,14 +61,16 @@ Deepfry supplied image.
 
 > `fry [URL to image] {Optionaly put the word "blue" here for a blue output}
 
-> example image here
+![](Fry_small.png)
+[full](Fry.png)
 
 #### Imgdif
 Generates a difference map from two images of the same resolution
 
 > `imgdif [URL to image 1] [URL to image 2] {Optionally put the letter b here to brighten the output}
 
-> example image here
+![](imgdif_small.png)
+[full](imgdif.png)
 
 #### Imgur
 reupload image to imgur.
