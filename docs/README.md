@@ -13,7 +13,7 @@ Displays the link to this page :3
 > `help
 
 #### Astro
-Will basically 'sing' Corpse Husband in chat
+Will basically 'sing' Astronaut in the Ocean in chat
 
 > `astro
 
