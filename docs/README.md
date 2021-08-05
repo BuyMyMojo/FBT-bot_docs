@@ -7,12 +7,17 @@ FBT-bot or FBT-security is a discord bot deveoped by [BuyMyMojo](https://github.
 
 ### Commands:
 
-> `command [These are required] {These are optional}
+> `command|alias1|alias2 [These are required] {These are optional}
 
 #### help
 Displays the link to this page :3
 
 > `help
+
+#### Angie
+For when you're mad
+
+> `angie|angry|mad
 
 #### Astro
 Will basically 'sing' Astronaut in the Ocean in chat
@@ -26,6 +31,37 @@ Displays the current user or mentioned user's discord avatar
 
 > `avatar {Optional @user}
 
+#### Based
+on what? Based on your based stats of course!
+
+Sends the based stats for a member
+
+> `based [@user]
+
+#### Bite
+Bite another user or yourself
+
+> `bite|chmomp|nom {@user}
+
+#### Bonk
+Bonk someone real hard!
+
+> `bonk {@user}
+
+#### Boop
+Boop someone right on the nose
+
+> `Boop {@user}
+
+#### Bored
+Show just how bored you are
+
+> `bored
+
+#### Bounce
+booba oo
+
+> `bounce|booba|boobies|tatas
 
 #### Censor
 Blurs out whatever image is given
@@ -41,12 +77,37 @@ Yep that's going in the cringe compilation
 
 ![](cringe.gif)
 
+#### Danbooru
+Get a SFW image from danbooru
+
+> `danbooru [tag(s)]
+
+#### Dance
+Dance alone or with a partner!
+
+> `dance {@user}
+
 #### Discord_add or da
 Add a users Discord ID to the security list
 
 > `discord_add [Discord User ID] {Optional URL to image (if none put 0)} {Optional reason}
 > 
 > `da [Discord User ID] {Optional URL to image (if none put 0)} {Optional reason}
+
+#### Drink
+Stay hydrated!
+
+> `drink|glug|gulp
+
+#### Eat
+Food is tasty
+
+> `eat
+
+#### Feedback
+Have feedback? feel free to tell us with this!
+
+> `feedback [Feedback]
 
 #### Femboy
 You get a SFW femboy image, what else do you want?
@@ -80,15 +141,35 @@ This was a test command but I left it in for fun ~ mojo
 
 > `imgur [URL to image]
 
+#### Kiss
+Kiss someone you like a lot... or yourself if you're lonely
+
+> `kiss|makeout|snog {@user}
+
 #### Kitten
 See if you can make someone your discord kitten
 
 > `kitten {@user}
 
+#### kpop
+This was added by TSMRE... blame him
+
+> `kpop
+
+#### Lazy
+Show just how lazy you feel
+
+> `lazy
+
 #### Lewd
 Wow that's lewd!
 
 > `lewd {@user}
+
+#### Lick
+Lick someone to mark them as yours!
+
+> `lick|taste {@user}
 
 #### owo
 Make your text all OwO
@@ -107,12 +188,27 @@ Get's a permanent result on how much of a furry you are. You are stuck with the 
 
 > `permafur {@user}
 
+#### Pinch
+Pinch someone because you can or pinch yourself to see if you're dreaming
+
+> `pinch {@user}
+
+#### Poke
+Poke someone or yourself
+
+> `poke {@user}
+
 #### Pomf
 like Astro but a lot worse.
 
 Thank me for this later ~ mojo
 
 > `pomf
+
+#### Punch
+Time to get into a fight!
+
+> `punch {@user}
 
 #### Puppy
 Sends a random puppy image
@@ -134,15 +230,45 @@ Ship any two members and have their result permanently remembered!
 
 > `ship [@user1] [@user2]
 
+#### Shoot
+Time to end a fight.. or yourself
+
+> `shoot|bang {@user}
+
+#### Slap
+Slap someone silly
+
+> `slap {@user}
+
+#### Sleepy
+Anyone else getting tired?
+
+> `sleepy|tired
+
 #### Song
 Sends a random song that is Suzuki Approved™
 
 > `song
 
+#### Systeminfo
+Show the hardware the bot is running on
+
+> `systeminfo
+
 #### Testplt
 This was another test I left in. fear that the bot can do math, it means it's nearly sentient! ~ mojo
 
 > `testplt
+
+#### Toxic
+Damn that's toxic
+
+> `toxic {@user}
+
+#### Tanslate
+Translates your text into any supported language
+
+> `translate [lang code] [text]
 
 #### vrc_add or va
 Like discord_add but for vrc info
@@ -187,3 +313,7 @@ Patreon: https://www.patreon.com/azukifumiko
 
 ### Devs:
 Maybe one day, if Azuki let's us out of the basement!
+
+[Mojo](https://www.buymeacoffee.com/buymymojo) - thanks bros
+
+Xeno - need him to give me something to add here
