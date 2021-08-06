@@ -314,6 +314,6 @@ Patreon: https://www.patreon.com/azukifumiko
 ### Devs:
 Maybe one day, if Azuki let's us out of the basement!
 
-[Mojo](https://www.buymeacoffee.com/buymymojo) - thanks bros
+[Mojo](https://www.patreon.com/buymymojo) - thanks bros
 
 [TSMRE](https://www.patreon.com/hststudios) - Look at this game dev go
