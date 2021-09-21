@@ -304,7 +304,7 @@ Twitter: https://twitter.com/FBTHeavenVRC/
 YouTube: https://www.youtube.com/channel/UCX9Poe22zs32S6uLKTflZRg/
 
 ### Other clubs and communitys using FBT bot:
-Aika Avitars, Saint Sean Studios, Club Hades, Halfys Happy Haven, JubJubVr Cinematics.
+Aika Avitars, Saint Sean Studios, Club Hades, Halfys Happy Haven, JubJubVr Cinematics, Yuyu's Metropolis, Club Poseidon, The Hive, Club Amethyst, Nescord.
 
 ## $upport:
 
